@@ -12,4 +12,6 @@
 ![team4_MeowWms_presentation (7)](https://github.com/Leemalgum/meowWms_User/assets/60692335/4d14e52b-08e3-493e-b3a7-6bb3b1442415)
 ![team4_MeowWms_presentation (8)](https://github.com/Leemalgum/meowWms_User/assets/60692335/5cce12bf-5c35-48b3-8ef5-834f260b917e)
 ![team4_MeowWms_presentation (9)](https://github.com/Leemalgum/meowWms_User/assets/60692335/56300383-1bcb-42bf-9736-ed489976dd88)
-
+# 명세서
+![화면 캡처 2024-04-01 094924](https://github.com/Leemalgum/SpringSecurityEx/assets/60692335/5ba57e95-3304-4195-ba62-5a1f22fb4d1f)
+![화면 캡처 2024-04-01 094947](https://github.com/Leemalgum/SpringSecurityEx/assets/60692335/58c84eeb-61bf-480b-8526-abc0a3d18ae1)
